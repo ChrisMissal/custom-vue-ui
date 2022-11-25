@@ -52,16 +52,16 @@
                   <div class="col-md-12">
                     <h4 class="category">J&P Cycles <small class="text-muted">Eastern Iowa</small> <small class="text-secondary">2007 &ndash; 2012</small></h4>
                     <h6 class="text-muted">Web Developer</h6>
-                    <p>As a web developer, I was responsible for the daily maintenance and features of the custom .NET e-commerce web application.</p>
-                    <p>The teams we built turned around a decimated department, and helped move the company into the <quote>"Web 2.0 era"</quote>.</p>
-                    <p>We managed our own email server! It was around for so many years that it had a pretty solid reputation score. One cool project was creating an email templating service provider internal to the company.</p>
+                    <p class="description">As a web developer, I was responsible for the daily maintenance and features of the custom .NET e-commerce web application.</p>
+                    <p class="description">The teams we built turned around a decimated department, and helped move the company into the <quote>"Web 2.0 era"</quote>.</p>
+                    <p class="description">We managed our own email server! It was around for so many years that it had a pretty solid reputation score. One cool project was creating an email templating service provider internal to the company.</p>
                   </div>
                   <div class="col-md-12">
                     <h4 class="category">Iowa Code Camp <small class="text-secondary">2009 &ndash; 2011</small></h4>
                     <h6 class="text-muted">Organizer and Presenter</h6>
-                    <dd>This is or was the largest free software conference in Iowa <small>[citation needed]</small>.</dd>
-                    <dd>My typical role was to help with selecting and scheduling speakers, and obtaining sponsorships.</dd>
-                    <dd>In addition to helping with volunteer duties, I presented several sessions over the years.</dd>
+                    <p class="description">This is or was the largest free software conference in Iowa <small>[citation needed]</small>.</p>
+                    <p class="description">My typical role was to help with selecting and scheduling speakers, and obtaining sponsorships.</p>
+                    <p class="description">In addition to helping with volunteer duties, I presented several sessions over the years.</p>
                   </div>
                 </div>
 
